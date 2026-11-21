@@ -1,5 +1,9 @@
 # Reduced frontoparietal–visual connectivity in aphantasia: an audit of the imaging evidence and its citation record
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415812.svg)](https://doi.org/10.5281/zenodo.24415812)
+
+Archived: v1.0.0, concept DOI 10.5281/zenodo.24415812, version DOI 10.5281/zenodo.24415813.
+
 Data and code accompanying the manuscript. Author: Jaiveer Bassi (independent researcher).
 
 This repository contains the extraction sheet, the citation-coding sheet, and the scripts used to
