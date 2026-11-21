@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the manuscript and this repository."
+title: "Data and code for: Reduced frontoparietal-visual connectivity in aphantasia: an audit of the imaging evidence and its citation record"
+type: dataset
+authors:
+  - family-names: Bassi
+    given-names: Jaiveer
+    orcid: "https://orcid.org/0009-0006-3633-3220"
+    email: jaiveerbassi@yahoo.com
+version: 1.0.0
+date-released: 2026-11-21
+license: CC-BY-4.0
+repository-code: "https://github.com/imjbassi/aphantasia-connectivity-audit"
+keywords:
+  - aphantasia
+  - mental imagery
+  - functional connectivity
+  - citation analysis
+  - statistical power
+abstract: >-
+  Extraction sheet for 19 neuroimaging studies of aphantasia (sampling, group definition,
+  procedural safeguards, data sharing), a connectivity-extraction sheet, the citation-coding
+  sheet, and the scripts used to compute power figures, resolve references and check extracted
+  values against source texts. Each row is tagged with the depth of verification: full text,
+  preprint, abstract only, or not retrieved. No new empirical data were collected.

@@ -1,0 +1,11 @@
+study_key,state,seed_target,n,result_vs_typical_imagers,correction,verified_against
+milton2021,rest,"four seeds, seed-to-voxel (CONN)",62 scanned (21/22/19),no region with control > aphantasic; aphantasic > control for hippocampus-left BA10 and dorsal attention-right BA8; prefrontal-visual hyperphantasia > aphantasia only,"p < .001 height, FDR cluster, within map",full text
+liu2025,task PPI,FIN (left fusiform) to whole brain,10 vs 10,"reduced FIN-left anterior PFC, OFC, MTG/STG; peak F(1,18) = 21.98, p = .00018; cluster mean F = 13.70","cluster extent, p < .005 initial, within map",full text and supplement
+liu2025,task residual,FIN; V1 seeds analysed separately,10 vs 10,no group difference,same,full text and supplement
+liu2025,task PPI,V1 seeds,10 vs 10,no group difference (all p > .005),same,full text and supplement
+monzel2024,rest,right hippocampus with left and right visual cortex,14 vs 16,no group difference,n/a,full text
+monzel2024,task gPPI,right posterior hippocampus to left visual cortex,14 vs 16,"controls strongly negative, aphantasic near zero; t(28) = 2.65, p = .006 (one-tailed); no frontal or parietal test",small-volume correction,full text
+megla2025,naturalistic video,Shen-268 lobe averages,1 vs 1 (twins),"lobe differences described as trends; one permutation test on an unpublished network, p = .010",none,preprint
+noble2026,task dynamic FC,66 temporal-lobe ROIs to Yeo-7,23 vs 20 (preprint); 21/20/17 (published),"mixed: more coupling with left FPN, left DMN, left VAN, right visual; less with bilateral DAN, frontotemporal, right VAN, left motor, left visual",edgewise permutation p < .05; no FWE or FDR,preprint
+wuyu2026,task gPPI,intraparietal sulcus with early visual cortex (V1-V3) and V3AB,"17 vs 17, historical controls","reduced coupling in the delay period for imagery and illusion (p < .05), not perception (p = .115); no test statistic",FDR in all analyses except the between-group time course,preprint
+takamura2026,structural,imagery-network tracts,18 vs 18,"no difference in direct structural connections of the imagery network or visual tracts; FA lower in left and right uncinate and posterior interparietal corpus callosum, higher in dorsal cingulum; left anterior PFC thinner",TFCE-FWE and FDR within stream,reviewed preprint
